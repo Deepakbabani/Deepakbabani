@@ -8,8 +8,8 @@
 ---
 
 ### 🧑‍💻 About Me
-- 🚀 Frontend Developer with 3+ years of experience crafting dynamic and responsive web apps.
-- ⚡ Skilled in **React.js**, **JavaScript (ES6+)**, **TypeScript**, and **modern frontend architectures**.
+- 🚀 Frontend Developer with 4+ years of experience crafting dynamic and responsive web apps.
+- ⚡ Skilled in **React.js**, **NextJs**, **JavaScript (ES6+)**, **TypeScript**, and **modern frontend architectures**.
 - 🛠️ Focused on **developer experience**, **performance optimization**, and **scalable design systems**.
 - 📚 Believer in lifelong learning — passionate about web technologies, cloud tools, and AI-enhanced interfaces.
 - 🎯 "With great code, comes great responsibility."
@@ -40,14 +40,6 @@
   Developed cross-platform apps using Flutter and Node.js, troubleshooting issues across multiple platforms.
 
 ---
-
-### 📈 Visitors Counter
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Deepakbabani/count.svg" alt="Visitor Count" />
-</p>
-
----
-
 
 ### 🤝 Let's Connect
 <div align="center">
